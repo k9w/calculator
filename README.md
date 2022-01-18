@@ -12,7 +12,7 @@
 
 ## Description
 
-_Welcome to the last project assigned by [Epicodus](https://epicodus.com) before introducing jQuery. Specifically, it demonstrates separation of Business Logic and User Interface Logic in a calculator web app for cleaner, easier-to-read JavaScript code._
+_Welcome to the first project with JavaScript assigned by [Epicodus](https://epicodus.com) before introducing jQuery. Specifically, it demonstrates separation of Business Logic and User Interface Logic in a calculator web app for cleaner, easier-to-read JavaScript code._
 
 [The
 lesson](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/calculator-business-logic)
